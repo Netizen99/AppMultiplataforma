@@ -1,0 +1,12 @@
+---Lab 03
+
+---Imagen 1.1.png, ubicado en el paso 3.8 "CODIGO FINAL MODIFICADO"
+---Imagen 1.2.png, ubicado en el paso 3.8 "RESULTADO DE CELULAR FINAL"
+
+CONCLUSIONES
+
+-React Native es un framework open-source para moviles creado por Facebook, con el cual vamos a desarrollar aplicaciones para Android y iOS.
+-Vamos a instalar el paquete Chocolatey para que la configuracion sea mejor con Windows, la instalacion de este se va a realizar primero con su descarga en la pagina indicada en el laboratorio; luego debemos colocar los codigos de instalacion. 
+-La instalacion de React Native la podemos realizar mediante codigo, luego debemos configurar el android asi como su entorno de variable si es que no la tenemos agregada.
+-La conexion hacia el celular para verlo en tiempo real el cambio va a requerir la conexion de react native y la configuracion en codigo como vemos en el laboratorio; al momento de ejecutar cualquier cambio de codigo y agitando el celular luego de ver el video introductorio de como refrescar.
+-Vamos a ver que en el codigo va a haber 2 partes, siendo la ubicacion de App.js; la primera parte va a ser el codigo y la segunda los estilos del codigo.
