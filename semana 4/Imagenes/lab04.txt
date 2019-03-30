@@ -1,0 +1,15 @@
+----------------COMPONENTES EN REACT NATIVE---------------
+Lab04
+
+---Imagen 1.1 del paso 2.6 que es "RESULTADO DE LOS CAMBIOS APLICACOS"
+---Imagen 2.2 del paso 3.1 que es "CAMBIOS EN CONTADOR.JS"
+---Imagen 2.3 del paso 3.2 que es "RESULTADO DE CONTADOR.JS"
+---Imagen 3.1 del paso 3.3 que es "RESULTADO DE LOS CAMBIOS"
+---Imagen 3.2 del paso 3.4 que es "RESULTADO DE LOS CAMBIOS AL JS Y APP"
+
+CONCLUSIONES
+-Vamos a darnos cuenta que despues de instalar el react-native en una carpeta y correrla nos va a dar un texto por defecto en el celular para darnos a conocer que si esta todo correcto.
+-Con Contador.js, vamos a ver que aca se va a manejar la interfaz y el codigo con el cual vamos a disminuir o aumentar los numeros por botones en el celular.
+-vamos a usar la varible interna this.props.valor para que reciba propiedades y para invocarlas vamos a usar el codigo mencionado.
+-Se puede agregar css a los mismos botones como vemos en Contador.js y asi tambien indicar como va a llamar a la funcion de incrementar o disminuir numeros con la terminacion Handler.
+-App.js y Contador.js van a trabajar de la mano ya que cuando app llame a contador, este va a recibir los paremetros para los contadores y las actividades que se les designa tanto en uno como en otro.
