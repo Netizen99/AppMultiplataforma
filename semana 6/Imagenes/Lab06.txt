@@ -1,0 +1,15 @@
+Lab06
+
+---Imagen 1.1 del paso 1.10 que es "CORRECION DE HOME Y RESULTADO"
+---Gif Mi video3.gif del paso 3.4 que es "GIF DE RESULTADO"
+---Gif Mi video4.gif del paso 4.2 que es "GIF DE RESULTADO"
+---Gif Mi video5.gif del paso 4.3 que es "GIF DE RESULTADO"
+---Gif Mi video6.gif del paso 4.4 que es "GIF DE RESULTADO"
+
+CONCLUSIONES
+
+-Vamos a tener un error aproposito, el cual se va a corregir si colocamos a Home ya que nos decia que no reconocia a Home y solo teniamos a HomeScreen.
+-Vamos a crear el src en la raiz del proyecto mas no adentro de android donde tenemos tambien las mismas carpetas y nos podemos confundir.
+-Vamos a utilizar botones para intercambiar las vistas asi como estas van a tomar el css del app.js
+-Vamos a ver que usaremos 3 tipos de Navegadores y estos son: createBottomTabNavigator, createDrawerNavigator y createStackNavigator.
+-Vamos a ver que en el navegador Bottom vamos a tener en la parte inferior 3 opciones a tomar, las cuales van a ser las vistas que podemos pasar a ver como por ejemplo la vista de profile o details.

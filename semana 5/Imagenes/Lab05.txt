@@ -1,0 +1,16 @@
+Lab05
+
+---Gif Mi video.gif del paso 1.4 que es "RESULTADO DEL CONTADOR"
+---Imagen 1.2 del paso 2.2 que es "RESULTADO DEL CAMBIO EN APP.JS"
+---Imagen 1.3 del paso 2.3 que es "RESULTADO DEL CAMBIO EN APP.JS SIN ADVERTENCIAS"
+---Imagen 1.4 del paso 2.4 que es "CAMBIO EN EL CSS Y NOMBRES EN APP.JS"
+---Gif Mi video2.gif del paso 2.7 que es "GIF DE RESULTADO"
+---Imagen 1.5 del paso 3.4 que es "RESULTADO DEL ULTIMO CAMBIO EN APP.JS CON LA VISTA DE LAS 20 OPCIONES Y SUS TEXTOS."
+
+CONCLUSIONES
+
+-La variable data puede recibir valores tanto en keys como si solo los separamos por comas y comillas.
+-Debemos recordar que debemos llamar a los elementos por el import asi como el input, ya que se vio que le faltaba y aparecieron unos errores.
+-Luego de que nuestro input se accione vamos a ver que los espacios van a estar llenos de los nombres y al colocar una inicial de estos en el input, se va a empezar a seleccionar cual empieza con esa vocal o letra y va a diferenciarlos, asi como va a contar las mayusculas.
+-Vamos a darnos cuenta que Axios va a realizar una consulta GET hacia la API para que recibamos el nombre de las peliculas, luego vamos a pasar los datos traidos hacia el setState que hemos puesto y asi como se dice que ya termino de cargar y nos va a mostrar los titulos.
+-Vamos a utilizar el API de una pagina web de peliculas para poder ver en una lista a estas y luego tambien una descripcion de cada una.
