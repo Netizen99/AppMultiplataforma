@@ -1,0 +1,12 @@
+Lab 10
+
+--- Imagen 1.1 en el punto 3 que es "PRIMERA VISTA DEL MAPA EN GENERAL".
+--- Imagen 1.2 en el punto 6.3 que es "VISTA DEL MAPA CON ESTILOS Y UBICACION".
+
+CONCLUSIONES
+
+-Vamos a ver que este laboratorio 10 va a trabajar con las dependencias de floating, native-maps para la funcionalidad de los mapas y su coneccion con la ubicacion actual.
+-En el archivo AndroidManifest vamos a ver que tenemos que darle el permiso al acceso de la localizacion asi como tambien vamos a darle una ApiKi o token, con el cual va a ser el token de Google Maps. Nosotros debemos tener uno propio ta que el que nos muestran ees de ejemplo.
+-Para obtener un token debemos tener una cuenta en Google Maps developers, y para esto tambien vamos a tener que conectarlo con una cuenta de tarjeta.
+-Vamos a ver que en el archivo custumStyles.js estan los estilos con los cuales vamos a poder cambiar la vista del mapa en la mayoria de los sentidos como podemos ver al momento en que lo mandamos a correr, tambien podemos ver la señalizacion que vamos a tener, ah cambiado y tambien podemos mover el mapa.
+-vamos a ver que con el FloatingAction vamos a agregar un boton flotante para que el usuario decida interactuar con ellos o no, estas son opciones extras.
