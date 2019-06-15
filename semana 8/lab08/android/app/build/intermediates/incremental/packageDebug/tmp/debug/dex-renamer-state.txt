@@ -1,0 +1,4 @@
+#Fri Jun 14 19:41:27 COT 2019
+base.0=C\:\\Users\\Victor\\Desktop\\Labs\\AppMultiplataforma - Naquira\\semana 8\\lab08\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

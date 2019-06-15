@@ -1,0 +1,14 @@
+Lab08
+
+--- Imagen 1.1 del punto 2.4 que es "VISUALIZACION DEL USUARIO CONECTADO".
+--- Imagen 1.2 del punto 3.8 que es "ESCRITORIO DEL CHAT".
+--- Imagen 1.3 del punto 3.8 que es "BOTONES DE REGRESAR AL CHAT O VOLVER AL INICIO".
+--- Imagen 1.4 del punto 3.8 que es "VISTA DEL INICIO".
+
+CONCLUSIONES
+
+-Vamos a instalar en el dawa_api el socket.io, el cual nos va a ayudar a la coneccion para el laboratorio de Chat.
+-El chat debe funcionar en la misma ip que estara el computador en que se le conecte, asi como en el celular donde se le introduzca.
+-Podemos acceder mas de 1 dispositivo al chat, ya que es un chat y debe recepcionar como enviar mensajes.
+-Vamos a necesitar de las dependencias gifted-chat y socket.io-cliente para que nuestro laboratorio empieze a funcionar tanto con el funcionamiento del chat asi como con el socket.io que instalamos tambien anteriormente en el api.
+-Vamos a ver que al momento de la introduccion de los textos, estos se muestran en cada chat asi como tambien gracias a el icono del engrane, podemos pasar hacia las siguientes opciones que son regresar al chat o ir al inicio. Todo esto es posible si el usuario se conecta en la primera vista de logeo o signin.
