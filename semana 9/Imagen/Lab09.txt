@@ -1,0 +1,14 @@
+Lab 09
+
+--- Imagen 1.1 ubicada en el punto 3.2 que es "VISTA DE LA OPCION CAMARA".
+--- Imagen 1.2 ubicada en el punto 3.2 que es ""VISTA DE LAS OPCIONES A ELEGIR, EN ESTE CASO ELEGIMOS A CAMARA.
+--- Imagen 1.3 ubicada en el punto 3.2 que es "VISTA DE COMO NOS DEBE MOSTRAR EL PERMISO PARA HABILITAR LA CAMARA Y EL SONIDO".
+--- Imagen 1.4 ubicada en el punto 3.2 que es "IMAGEN TOMADA DESDE LA APLICACION".
+
+CONCLUSIONES
+
+-En este laboratorio vamos a usar en el api a multer, el cual nos va a ayudar con el procedimiento de la camara en nuestro lab09 y su coneccion.
+-Vamos a indicar que en nuestra api vaya a recibir un get de las rutas donde podamos invocar a multer, asi como la creacion de files y file; ya queuno idicara las rutas de mulder y el otro el contenido de este, se maneja un storage.
+-En nuestro laboratorio trabajemos con las dependencias camera y native-camera, con las cuales vamos a establecer las coneccion de la camara con el api y tambien el funcionamiento de la camara planteada.
+-Vemos que en App.js no vamos a llamar a CameraScreen sino solo Camera ya que la clase esta exportando a CameraScreen y podemos ver que no va a ser manejada la camara con interfaz; solo la parte de su slide en el cual la invocaremos.
+-Para acceder a la camara debemos ingresar obligatoriamente al slide, el cual nos indicara la opcion a tomar, que en este caso es camara; asi como vamos a ver que esta toma fotos normalmente siempre y cuando se permita utilizar a la camara y el sonido o grabar, como se indica en el laboratorio.
