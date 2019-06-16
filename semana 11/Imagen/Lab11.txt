@@ -1,0 +1,14 @@
+Lab 11
+
+--- Imagen 1.1 en el punto 3.1 que es "VISTA DE LA PAGINA PRINCIPAL".
+--- Imagen 1.2 en el punto 4.6 que es "VISTA DEL PERFIL".
+--- Imagen 1.3 en el punto 4.6 que es "VISTA DE LOS DETALLES DEL USUARIO".
+--- Imagen 1.4 en el punto 4.6 que es "EDITACION DEL USUARIO".
+
+CONCLUSIONES
+
+-Vamos a trabajar con las dependencias de md5 y elements, las cuales nos van a ayudar con las vistas planeadas y su funcionamiento.
+-Vamos a crear 4 nuevas vistas, las cuales son Profile, ProfileEdit, Lists y Settings, las cuales van a tener el mismo codigo al inicio para que no mande error en alguna de estas si requerimos probar una.
+-En la primera vista luego del registro vamos a poder ver la vista principal, la cual se va a encargar de mostrarnos las opciones que tenemos para elegir y seguir con las acciones deseadas, como por ejemplo podemos ir ahora hacia la vista de perfil y modificarla.
+-Vamos a crear un archivo Badge.js para que se encarge de reciclar los detalles de otro usuario al momento de poder verlo en la portada.
+-Vamos a ver que podemos editar un usuario, el que este registrado asi como si nos dirigimos hacia la opcion de cerrar sesion, esta nos redirige hacia la vista de logeo.
