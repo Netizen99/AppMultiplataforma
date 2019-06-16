@@ -1,0 +1,15 @@
+Lab 12
+
+--- Imagen 1.1 del punto 2.1 que es "VISUALIZACION DE CONFIGURACION".
+--- Imagen 1.2 del punto 2.1 que es "VISUALIZACION DE LAS INTERACCIONES QUE SE PUEDEN TENER CON LA VISTA CONFIGURACION, LAS DEMAS CASILLAS NOS VAN A MANDAR UN MENSAJE INDICANDO QUE HACEN".
+--- Imagen 1.3 del punto 3.2 que es "VISUALIZACION DE LA PRIMERA PARTE DE LA LISTA".
+--- Imagen 1.4 del punto 3.2 que es "SEGUNDA PARTE DE LA LISTA AL PRESIONAR EL BOTON DE LA PARTE INFERIOR(VER MAS)".
+--- Imagen 1.5 del punto 3.2 que es "VISUALIZACION DE LA TERCERA PARTE DE LA LISTA Y SEGUIMOS PRESIONANDO EL BOTON, VA A SERGUIR DANDONOS VALORES.".
+
+CONCLUSIONES
+
+-Vamos a necesitar de las dependencias settings-list en este laboratorio para su funcionamiento y vista de estos.
+-Vamos a utilizar a settingsList en la clase Settings.js para poder visualizar los componentes que se van a mirar y tambien en estos vamos a poder interactuar con ellos, solo vamos a ver cambios visibles en dos puntos que son switch y color de ejemplo.
+-En el archivo list vamos a ver que se va a hacer una llamada Api y esta nos va a devolver nombres aleatorios mientras le pickemos al boton de ver mas, este nos devolvera otra vez de manera aleatoria los nombres; aveces no tiene sentido. 
+-Las interacciones con estas dos vistas tocadas en este lab vamos a poder acceder a ellas mediante el mismo boton de configuracion o de lista pero tambien moviendo hacia el slize podemos ver tambien a configuracion y list.
+-List y settings son los archivos que en el anterior laboratorio dejamos en vacio con la vista de la palabra setting.
